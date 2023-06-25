@@ -1,2 +1,19 @@
-# Tic-Tac-Toe
-Tic-Tac-Toe Game This repository contains a web-based implementation of the classic game Tic-Tac-Toe. Tic-Tac-Toe, also known as Noughts and Crosses, is a two-player game played on a 3x3 grid. Players take turns marking X or O on the grid until one player achieves a winning pattern or the grid is completely filled, resulting in a tie.
+# tic-tac-toe
+
+Simple tic-tac-toe game built using HTML, CSS, and JavaScript for beginners
+
+
+### Rules
+
+- Two players take turns: placing 'X' and 'O' marks in empty spaces on a 3x3 square grid.
+- Player with the 'X' mark starts first. The first player to place 3 marks in a vertical, horizontal, or diagonal row wins the game.
+- If all spaces are filled, the game ends in a draw.
+
+
+
+## Author
+
+👤 **RAJESH SINGH **
+
+
+* GitHub: [@rajeshofficial](https://github.com/rajeshofficial)
